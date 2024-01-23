@@ -1,4 +1,6 @@
-# COP2002-Example-Repo
-This is my first submission
+# Creating a project for GitHub
+# By Garrett Morgan
 
-"I'm understanding how to use GitHub to keep track of changes!"
+print("COP2002.0M1")
+
+print(I'm understanding how to use GitHub to keep track of changes!"
